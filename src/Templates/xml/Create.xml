@@ -1,0 +1,12 @@
+<Create xmlns="http://schemas.microsoft.com/xrm/2011/Contracts/Services">
+    <entity xmlns:b="http://schemas.microsoft.com/xrm/2011/Contracts" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+        <b:Attributes xmlns:c="http://schemas.datacontract.org/2004/07/System.Collections.Generic">
+            %ATTRIBUTES%
+        </b:Attributes>
+        <b:EntityState i:nil="true"/>
+        <b:FormattedValues xmlns:c="http://schemas.datacontract.org/2004/07/System.Collections.Generic"/>
+        <b:Id>00000000-0000-0000-0000-000000000000</b:Id>
+        <b:LogicalName>%LOGICAL_NAME%</b:LogicalName>
+        <b:RelatedEntities xmlns:c="http://schemas.datacontract.org/2004/07/System.Collections.Generic"/>
+    </entity>
+</Create>

@@ -1,0 +1,7 @@
+<DeviceAddRequest>
+    <ClientInfo name="%CLIENT_ID%" version="1.0"/>
+    <Authentication>
+        <Membername>%DEVICE_USERNAME%</Membername>
+        <Password>%DEVICE_PASSWORD%</Password>
+    </Authentication>
+</DeviceAddRequest>

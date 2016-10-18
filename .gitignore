@@ -1,0 +1,14 @@
+# IDEs, tools and Editors
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+.idea
+.DS_Store
+
+# Logs
+logs
+*.log
+# Dependences directories
+node_modules
+vendor/*
